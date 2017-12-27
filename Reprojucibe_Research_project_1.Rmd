@@ -86,6 +86,3 @@ ggplot(averages, aes(interval, steps)) + geom_line() + facet_grid(day ~ .) +
     xlab("5-minute interval") + ylab("Number of steps")
 ```
 
-## Q9 All of the R code needed to reproduce the results (numbers, plots, etc.) in the report
-
-All of the R code reproducing the results (numbers, plots, etc.) in the report is list above.
